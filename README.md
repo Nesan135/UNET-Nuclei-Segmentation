@@ -14,17 +14,17 @@ U-Net model to accurately classify cell nuclei. MobileNetV2 was used for downsam
 `pip install -q git+https://github.com/tensorflow/examples.git`
 
 # Model Architecture
-![Model](https://github.com/Nesan135/Concrete-Crack-Images-Classifier/blob/main/images/model.png?raw=true)
+![Model](https://github.com/Nesan135/UNET-Nuclei-Segmentation/blob/main/images/model.png?raw=true)
 
 # Model Performance
-![Performance](https://github.com/Nesan135/Concrete-Crack-Images-Classifier/blob/main/images/performance.png?raw=true)
+![Performance](https://github.com/Nesan135/UNET-Nuclei-Segmentation/blob/main/images/performance.png?raw=true)
 
 # Tensorboard
-![epoch_accuracy](https://github.com/Nesan135/Concrete-Crack-Images-Classifier/blob/main/images/tensorboard%20accuracy.png?raw=true)
-![epoch_loss](https://github.com/Nesan135/Concrete-Crack-Images-Classifier/blob/main/images/tensorboard%20loss.png?raw=true)
+![epoch_accuracy](https://github.com/Nesan135/UNET-Nuclei-Segmentation/blob/main/images/tensorboard%20accuracy.png?raw=true)
+![epoch_loss](https://github.com/Nesan135/UNET-Nuclei-Segmentation/blob/main/images/tensorboard%20loss.png?raw=true)
 
 # Results
-![epoch_loss](https://github.com/Nesan135/Concrete-Crack-Images-Classifier/blob/main/images/results.png?raw=true)
+![epoch_loss](https://github.com/Nesan135/UNET-Nuclei-Segmentation/blob/main/images/results.png?raw=true)
 
 ## References
 <a id="1">[1]</a> 
